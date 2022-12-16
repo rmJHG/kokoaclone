@@ -48,3 +48,10 @@
   margin-bottom: 10px;
   display: block;
 }
+.user-component__subtitle i {
+  color: tomato;
+  padding: 6px 5px;
+  border: 2px solid tomato;
+  border-radius: 50%;
+  align-items: center;
+}
