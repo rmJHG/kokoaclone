@@ -1,32 +1,30 @@
 #friends-display-link {
-    text-align: center;
-    display: block;
-    background-color: #fafafa;
-    padding: 15px 0px;
-    font-size: 18px;
-    margin-bottom: 10px;
-    margin-top: -15px;
+  text-align: center;
+  display: block;
+  background-color: #fafafa;
+  padding: 15px 0px;
+  font-size: 18px;
+  margin-bottom: 10px;
+  margin-top: -15px;
 }
 
 #friends-display-link i {
-    color: rgba(0, 0, 0, 0.3);
-
+  color: var(--color-gray);
 }
 
 .friends-screen {
-    padding: 0px 20px;
+  padding: 0px 20px;
 }
 .friend-screen__channel {
-    padding-top: 20px;
+  padding-top: 20px;
 }
 .friend-screen__channel-header {
-    border-top: 1px solid rgba(0, 0, 0, 0.2);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px 0px;
-    color: rgba(0, 0, 0, 0.4);
-    font-size: 15px;
-    font-weight: 700;
+  border-top: var(--main-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0px;
+  color: var(--color-gray);
+  font-size: 15px;
+  font-weight: 700;
 }
-

@@ -1,3 +1,5 @@
-:root{
-    --yellow: #fae100;
+:root {
+  --yellow: #fae100;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+  --color-gray: rgba(0, 0, 0, 0.4);
 }
